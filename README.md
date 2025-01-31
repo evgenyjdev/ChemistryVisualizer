@@ -1,4 +1,5 @@
 # Chemistry Visualizer
+Molecule visualizer based on the indigo library
 
 ## Installation:
 - look `src/deploy.sh`
